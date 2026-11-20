@@ -68,10 +68,6 @@ Le contrat empêche l'émission par un compte non autorisé et le double enregis
 
 Le projet contient cinq tests Hardhat : création, lecture, autorisation, doublons et émission multiple. Ils ont été exécutés avec succès.
 
-## Remarque pour la présentation
-
-L'application utilise uniquement la blockchain Hardhat locale. Il faut garder le terminal `npm run node` ouvert. Si ce réseau est redémarré, il faut redéployer le contrat et recréer les certificats de démonstration.
-
 **Adresse du contrat local :** `0x5FbDB2315678afecb367f032d93F642f64180aa3` (adresse obtenue lors du déploiement de test ; à revérifier après un redémarrage).
 
 La capture d'écran d'une émission réussie, avec le hash de transaction, est à joindre au dossier rendu.
